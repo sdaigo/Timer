@@ -11,6 +11,7 @@
 		79964585267DC64500F785ED /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79964584267DC64500F785ED /* ContentView.swift */; };
 		79964587267DC64700F785ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79964586267DC64700F785ED /* Assets.xcassets */; };
 		7996458A267DC64700F785ED /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79964589267DC64700F785ED /* Preview Assets.xcassets */; };
+		79964592267DC6E200F785ED /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79964591267DC6E200F785ED /* SettingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		79964586267DC64700F785ED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		79964589267DC64700F785ED /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7996458B267DC64700F785ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		79964591267DC6E200F785ED /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				79964582267DC64500F785ED /* TimerApp.swift */,
 				79964584267DC64500F785ED /* ContentView.swift */,
 				79964586267DC64700F785ED /* Assets.xcassets */,
+				79964591267DC6E200F785ED /* SettingView.swift */,
 				7996458B267DC64700F785ED /* Info.plist */,
 				79964588267DC64700F785ED /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				79964592267DC6E200F785ED /* SettingView.swift in Sources */,
 				79964585267DC64500F785ED /* ContentView.swift in Sources */,
 				79964583267DC64500F785ED /* TimerApp.swift in Sources */,
 			);
